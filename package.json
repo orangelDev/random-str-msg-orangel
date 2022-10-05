@@ -1,0 +1,26 @@
+{
+  "name": "random-str-msg-orangel",
+  "version": "1.0.0",
+  "description": "Random string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangelDev/random-str-msg-orangel.git"
+  },
+  "author": "\"Orangel Brito <orangeleando@gmail.com\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orangelDev/random-str-msg-orangel/issues"
+  },
+  "homepage": "https://github.com/orangelDev/random-str-msg-orangel#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
